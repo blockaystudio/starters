@@ -62,3 +62,8 @@ build/
 
 ## OS Specific
 .DS_Store
+
+desktop/
+android/
+ios/
+html/
